@@ -1,2 +1,9 @@
 # hello-world
-this is a repository to store ideas and resources
+
+Yeah, I wanna learn. 
+
+Learn  very much I want, as Yoda would say.
+
+I don't like Star Wars.
+
+Or Star Trek, for that matter.
